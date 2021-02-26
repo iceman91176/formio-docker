@@ -1,0 +1,6 @@
+### dotenv ###
+.env
+
+app.tar.gz
+tmp/**
+.**
